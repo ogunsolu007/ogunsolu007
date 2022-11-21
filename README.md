@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science Education.
-- 💼 &nbsp; Working as a Developer at HYCODERS TECHNOLOGIES.
+- 💼 &nbsp; Working as a Developer at Rumaq.
 - 🌱 &nbsp; Learning more about Software Engineering.
 - ✍️ &nbsp; Pursuing Social media management as hobbies/side hustles.
 
@@ -17,7 +17,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
