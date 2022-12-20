@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science Education.
-- 💼 &nbsp; Working as a Developer at Rumaq.
+- 💼 &nbsp; Open to work.
 - 🌱 &nbsp; Learning more about Software Engineering.
 - ✍️ &nbsp; Pursuing Social media management as hobbies/side hustles.
 
